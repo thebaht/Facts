@@ -13,8 +13,7 @@ Renshou Guandan, or Renshou "Stuffed Egg," is a rare, intangible cultural herita
 <!-- - [ ] [1+2+3+4+5+... = ⁻¹⁄₁₂](https://www.youtube.com/watch?v=w-I6XTVZXww)  ([Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series))   -->
 # 1+2+3+4+5+... = ⁻¹⁄₁₂
 
-- S₁ &nbsp;&nbsp;=&thinsp; 1 - 1 + 1 - 1 + 1 - 1 + 1 - ... &nbsp;&nbsp;=&thinsp; ½  
-  - [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series)
+- S₁ &nbsp;&nbsp;=&thinsp; 1 - 1 + 1 - 1 + 1 - 1 + 1 - ... &nbsp;&nbsp;=&thinsp; ½  &emsp;&emsp;[Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series)
 - S₂ &nbsp;&nbsp;=&thinsp; 1 - 2 + 3 - 4 + 5 - 6 + 7 - ... &nbsp;&nbsp;=&thinsp; ¼  
 &thinsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 • S₂ &nbsp;&nbsp;=&thinsp;  1 - 2 + 3 &thinsp;- 4 + 5 &thinsp;- 6 + 7 &thinsp;- &thinsp;...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + [ 1 - &thinsp;2 + 3 - &thinsp;4 + 5 - &thinsp;6 + ... &thinsp;]  
