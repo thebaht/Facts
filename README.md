@@ -21,7 +21,7 @@
 ⇒ &nbsp;  &nbsp;&nbsp; - ¼ &nbsp;&nbsp;=&thinsp; 3 • S  
 ⇒ &nbsp; &nbsp;&nbsp; - ¹⁄₁₂ &nbsp;=&thinsp; S  
 
-## Hair to proton size comparison
+## How do they actually collide protons?
 
 Protons are what scientist are colliding at CERN, and the channel they are passing them through is the width of a hair. But how big is that compared to the protons?  
 
@@ -32,4 +32,4 @@ Protons are what scientist are colliding at CERN, and the channel they are passi
 ⇒ &nbsp;  the nucleus of the atom would be a grain of rice  
 ⇒ &nbsp;  a proton would be a grain of salt
 
-So it's kinda insane we can line them up and make them hit each other on purpose.
+Obviously, trying to line up those grains of sand moving at almost the speed of light into each other, is next to impossible. So what they actully do, is fire them in bunches of 100 billion protons. But even that only produces around 50-60 collisions on average. So to get some actual data, they fire these bunches of bunches of 100 billion protons, 30 million times per second
