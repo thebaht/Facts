@@ -10,23 +10,22 @@ Renshou Guandan, or Renshou "Stuffed Egg," is a rare, intangible cultural herita
   - Appearance/Taste: When cooked, the egg resembles a white ingot with a golden, flavorful center.
   - Symbolism: Traditionally served during festive occasions, such as birthdays or New Year, to signify longevity, health, and family unity.
   - Preparation: The meat paste is forced into a small, pierced hole in the egg yolk using chopsticks before the egg is carefully poached or steamed.
-- [ ] [1+2+3+4+5+... = -1/12](https://www.youtube.com/watch?v=w-I6XTVZXww)  ([Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series))  
-  - S<sub>1</sub> = 1 - 1 + 1 - 1 + 1 - 1 + 1 - ... = 1/2  
-  - S<sub>2</sub> = 1 - 2 + 3 - 4 + 5 - 6 + 7 - ... = 1/4  
-  \
-  2 • S<sub>2</sub> =  1 + ( -2+1 ) + ( 3-2 ) + ( -4+3 ) + ( 5-4 ) + ( -6+5 ) + ( 7-6 ) - ...  
-  \
-  2 • S<sub>2</sub> = 1 - 1 + 1 - 1 + 1 - 1 + 1 - ... = 1/2  
-  \
-  S<sub>2</sub> = 1/4  
-  &emsp;
+- [ ] [1+2+3+4+5+... = ⁻¹⁄₁₂](https://www.youtube.com/watch?v=w-I6XTVZXww)  ([Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series))  
+  - S₁ $~~$=&thinsp; 1 - 1 + 1 - 1 + 1 - 1 + 1 - ... $~~$=&thinsp; ½  
+  - S₂ $~~$=&thinsp; 1 - 2 + 3 - 4 + 5 - 6 + 7 - ... $~~$=&thinsp; ¼  
+  &thinsp;$~~~~$ 2 • S₂ $~~$=&thinsp;  1 - 2 + 3 &thinsp;- 4 + 5 &thinsp;- 6 + 7 &thinsp;- &thinsp;...  
+  $~~~~~~~~~~~~~~~~~~~$ + [ 1 &thinsp;- &thinsp;2 + 3 - &thinsp;4 + 5 - &thinsp;6 + ... &thinsp;]  
+  &thinsp;$~~~~$ 2 • S₂ $~~$=&thinsp;  1 + ( -2+1 ) + ( 3-2 ) + ( -4+3 ) + ( 5-4 ) + ( -6+5 ) + ( 7-6 ) - ...  
+  ⇒ $~$ 2 • S₂ $~~$=&thinsp; 1 - 1 + 1 - 1 + 1 - 1 + 1 - ...  
+  ⇒ $~$ 2 • S₂ $~~$=&thinsp; ½  
+  ⇒ $~$ S₂ $~~~~~~~$=&thinsp; ¼  
 
-  - S = 1 + 2 + 3 + 4 + 5 + 6 + 7 + ... = -1/12  
-  \
-  S - S<sub>2</sub> = ( 1-1 ) + ( 2-(-2) ) + ( 3-3 ) + ( 4-(-4) ) + ( 5-5 ) + ( 6-(-6) )  
-  \
-  S - S<sub>2</sub> = 4 + 8 + 12 + ...  
-  \
-  S - S<sub>2</sub> = 4 • (1+2+3+4+5+...) = 4 • S  
-  \
-  S - 1/4 = 4 • S   &emsp; ⇒ &emsp; -1/4 = 3 • S &emsp; ⇒ &emsp; S = -1/12
+  - S $~~$=&thinsp; 1 + 2 + 3 + 4 + 5 + 6 + 7 + ... $~~$=&thinsp; - ¹⁄₁₂  
+  &thinsp;$~~~~$ S - S₂ $~~$=&thinsp; 1 + 2 + 3 + 4 + 5 + 6 + 7 + ...  
+  $~~~~~~~~~~~~~~~$ - [ 1 &thinsp;- &thinsp;2 + 3 &thinsp;- 4 + 5 &thinsp;- 6 &thinsp;+ 7 &thinsp;- ... &thinsp;]  
+  &thinsp;$~~~~$ S - S₂ $~~$=&thinsp; ( 1&thinsp;-&thinsp;1 ) + ( 2&thinsp;-&thinsp;(-2) ) + ( 3&thinsp;-&thinsp;3 ) + ( 4&thinsp;-&thinsp;(-4) ) + ( 5&thinsp;-&thinsp;5 ) + ( 6&thinsp;-&thinsp;(-6) )  
+  ⇒ $~$  S - S₂ $~~$=&thinsp; 4 + 8 + 12 + ...  
+  ⇒ $~$  S - S₂ $~~$=&thinsp; 4 • (1+2+3+4+5+...) $~~$=&thinsp; 4 • S  
+  ⇒ $~$  S - ¼ $~~$=&thinsp; 4 • S  
+  ⇒ $~$  $~~$ - ¼ $~~$=&thinsp; 3 • S  
+  ⇒ $~$  S &thinsp;$~~~~~~~~$=&thinsp; - ¹⁄₁₂  
